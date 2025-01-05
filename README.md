@@ -31,19 +31,3 @@ This project is licensed under the MIT License.
 
 
 ---
-
-### 4. **Добавь `.gitignore`**
-Rust автоматически создает файл `.gitignore`. Проверь, что он включает:
-
-target/ **/*.rs.bk
-
-
----
-
-### 5. **Первый коммит и пуш**
-Выполни команды:
-```bash
-git add .
-git commit -m "Initial project structure"
-git branch -M main
-git push -u origin main
