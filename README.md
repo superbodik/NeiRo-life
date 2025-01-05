@@ -11,7 +11,7 @@ _2D open-world game built with Rust and Bevy where creatures evolve using neural
 1. Install Rust: [Rust Installation Guide](https://www.rust-lang.org/tools/install)
 2. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/neuro-life.git
+   git clone https://github.com/superbodik/NeiRo-life
    cd neuro-life
    cargo run
 # Roadmap

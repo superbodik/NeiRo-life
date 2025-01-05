@@ -1,0 +1,13 @@
+[package]
+name = "NeiRo-life"
+version = "0.1.0"
+authors = ["SuperBodik <vedmidbogdna17@gmail.com>"]
+edition = "2021"
+description = "2D игра с открытым миром и нейросетями на Rust с использованием Bevy"
+repository = "https://github.com/superbodik/NeiRo-life.git"
+license = "MIT"
+keywords = ["game", "rust", "bevy", "neural-networks", "open-world"]
+
+[dependencies]
+bevy = "0.11"  
+rand = "0.8"
