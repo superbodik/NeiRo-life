@@ -14,3 +14,36 @@ _2D open-world game built with Rust and Bevy where creatures evolve using neural
    git clone https://github.com/USERNAME/neuro-life.git
    cd neuro-life
    cargo run
+# Roadmap
+
+Add creatures and movement mechanics
+Implement food generation and consumption
+Introduce neural networks for creature behavior
+
+    Enable creature reproduction and evolution
+
+# Contributing
+
+Feel free to submit issues or pull requests to help improve the game!
+License
+
+This project is licensed under the MIT License.
+
+
+---
+
+### 4. **Добавь `.gitignore`**
+Rust автоматически создает файл `.gitignore`. Проверь, что он включает:
+
+target/ **/*.rs.bk
+
+
+---
+
+### 5. **Первый коммит и пуш**
+Выполни команды:
+```bash
+git add .
+git commit -m "Initial project structure"
+git branch -M main
+git push -u origin main
